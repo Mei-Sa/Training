@@ -1,2 +1,2 @@
 # Training
-Training projects
+Various training projects
