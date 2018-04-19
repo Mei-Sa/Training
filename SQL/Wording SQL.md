@@ -1,4 +1,4 @@
-## **Énoncé**
+## **Wording**
 
 **• Représentants**
 
